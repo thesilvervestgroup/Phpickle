@@ -1,5 +1,5 @@
 <?php
-require_once "../phpickle.php";
+require_once "vendor/autoload.php";
 require_once "test_data.php";
 
 class phpickle_unpickleTest extends PHPUnit_Framework_TestCase

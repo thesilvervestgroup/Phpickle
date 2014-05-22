@@ -1,0 +1,17 @@
+{
+    "name": "tsg/phpickle",
+    "description": "Python pickle format support for PHP",
+    "authors": [
+        {
+            "name": "Nick Silvestro",
+            "email": "nick@silvervest.net"
+        },
+        {
+            "name": "Terryf",
+            "email": "terryf@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "files": ["phpickle.php"]
+    }
+}
